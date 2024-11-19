@@ -1,7 +1,7 @@
 # Labs: Advanced Learning for Text and Graph Data
 2024-2025 course at the MVA (Mathématiques, Vision, Apprentissage) at École Normale Supérieure Paris-Saclay.
 
-There are going to be 6 Labs in total, using Python with various frameworks such as: PyTorch, Hugging Face Transformers, Networkx,...
+There are going to be 6 Labs in total, using Python with various frameworks such as: PyTorch, Hugging Face Transformers, Networkx, Scikit-Learn...
 
 The 3 first Labs are about using Deep Learning for text data (NLP) and the 3 last ones are Machine Learning and Deep Learning for graph data.
 
