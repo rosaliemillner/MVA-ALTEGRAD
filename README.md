@@ -10,7 +10,7 @@ The covered topics are:
 
 - Lab 1: Hierarchical Attention Network and Self-Attention
 - Lab 2: Transformers, Transfer Learning in NLP
-- Lab 3: Large Language Models (LLMs), fine-tuning with LoRA + quantization
+- Lab 3: Large Language Models (LLMs), fine-tuning Qwen2.5-0.5B with LoRA + quantization
 - Lab 4: Machine Learning for Graphs
 - Lab 5: (to come)
 - Lab 6: (to come)
