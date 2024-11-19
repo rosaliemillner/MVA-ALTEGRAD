@@ -3,7 +3,7 @@
 
 There are going to be 6 Labs in total, using Python with various frameworks such as: PyTorch, Hugging Face Transformers, Networkx,...
 
-The 3 first Labs are about Deep Learning text data (NLP) and the 3 last ones are Machine Learning and Deep Learning for graph data.
+The 3 first Labs are about using Deep Learning for text data (NLP) and the 3 last ones are Machine Learning and Deep Learning for graph data.
 
 
 The covered topics are:
