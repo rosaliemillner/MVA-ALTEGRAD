@@ -1,5 +1,5 @@
 # Labs: Advanced Learning for Text and Graph Data
-2024-2025 course at the MVA (Mathématiques, Vision, Apprentissage) at École Normale Supérieure Paris-Saclay.
+2024-2025 course of the MVA (Mathématiques, Vision, Apprentissage) at École Normale Supérieure Paris-Saclay.
 
 There are going to be 6 Labs in total, using Python with various frameworks such as: PyTorch, Hugging Face Transformers, Networkx, Scikit-Learn...
 
